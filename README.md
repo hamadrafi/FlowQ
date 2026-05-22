@@ -1,6 +1,6 @@
 # 🚀 FlowQ — Universal Queue & Flow Management System
 
-FlowQ (also referred to as HealthQ) is a premium, real-time **Universal Queue Management SaaS** built to streamline customer flow and virtual ticketing for physical locations such as hospitals, clinics, banks, government branches, and salons.
+FlowQ is a premium, real-time **Universal Queue Management SaaS** built to streamline customer flow and virtual ticketing for physical locations such as hospitals, clinics, banks, government branches, and salons.
 
 With FlowQ, businesses can digitize their waitlists, and customers can take virtual tokens on their mobile devices to monitor wait times and positions in real-time—no native mobile app install required.
 
